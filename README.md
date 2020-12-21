@@ -12,4 +12,4 @@ This project contains the collection of papers related to fuzzing
 
 # Related Git repo
 
-[A list of resources on fuzzing created by Cheng Wen ](https://github.com/wcventure/FuzzingPaper)
+A list of resources on fuzzing created by Cheng Wen. https://github.com/wcventure/FuzzingPaper
