@@ -10,7 +10,7 @@ This project contains the collection of papers related to fuzzing
 
 - [Fuzzing File Systems via Two-Dimensional Input Space Exploration](https://taesoo.kim/pubs/2019/xu:janus.pdf) (S&P'19, JANUS) [Open Source](https://github.com/sslab-gatech/janus)
 
-- [Fuzzing: a survey](https://link.springer.com/content/pdf/10.1186/s42400-018-0002-y.pdf) (Cybersecurity'18)
+- [Fuzzing: a survey](https://link.springer.com/article/10.1186/s42400-018-0002-y) (Cybersecurity'18)
 
 # Related Git repo
 
