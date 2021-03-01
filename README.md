@@ -14,6 +14,8 @@ This project contains the collection of papers related to fuzzing
 
 - [Fuzzing: a survey](https://link.springer.com/article/10.1186/s42400-018-0002-y) (Cybersecurity'18)
 
+- [FuzzGen: Automactic Fuzzer Generation](https://www.usenix.org/system/files/sec20-ispoglou.pdf) (USENIX Security'20)
+
 # Related Git repo
 
 A list of resources on fuzzing created by Cheng Wen. https://github.com/wcventure/FuzzingPaper
