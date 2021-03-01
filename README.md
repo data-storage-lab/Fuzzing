@@ -16,6 +16,8 @@ This project contains the collection of papers related to fuzzing
 
 - [FuzzGen: Automactic Fuzzer Generation](https://www.usenix.org/system/files/sec20-ispoglou.pdf) (USENIX Security'20)
 
+- [FuZZan: Efficient Sanitizer Metadata Design for Fuzzing](https://www.usenix.org/system/files/atc20-jeon.pdf) (USENIX ATC'20)
+
 # Related Git repo
 
 A list of resources on fuzzing created by Cheng Wen. https://github.com/wcventure/FuzzingPaper
