@@ -17,6 +17,7 @@ This project contains the collection of papers related to fuzzing
 - [FuzzGen: Automactic Fuzzer Generation](https://www.usenix.org/system/files/sec20-ispoglou.pdf) (USENIX Security'20)
 
 - [FuZZan: Efficient Sanitizer Metadata Design for Fuzzing](https://www.usenix.org/system/files/atc20-jeon.pdf) (USENIX ATC'20)
+- [Fuzz Revisited: A Re-Examination of the Reliability of UNIX Utilities and Services](https://www.researchgate.net/publication/239668581_Fuzz_Revisited_A_Re-Examination_of_the_Reliability_of_UNIX_Utilities_and_Services) (1995)
 
 # Related Git repo
 
